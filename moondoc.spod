@@ -5,11 +5,11 @@ show up in the documentation. Add an example section before the first descriptiv
 and it will run for testing but be excluded from the documentation. This setup code can even
 be added directly after the heading paragraph as the heading paragraph is special.
 
-	=S2 The Utility module
+    =S2 The Utility module
 
-		local util = ...
+        local util = ...
 
-	The utility module is composed of function that are very general puropse.
+    The utility module is composed of function that are very general puropse.
 
 True examples will need an introductory descriptive paragraph for explanation and 
 show up in the documentation in this case.
