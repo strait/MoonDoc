@@ -2,9 +2,9 @@
 
 local lfs = require 'lfs'
 local lp = require 'lpeg'
-local lx = require 'moonloop.list'
-local util = require 'moonloop.util'
-local tbx = require 'moonloop.tableAux'
+local lx = require 'moonlib.list'
+local util = require 'moonlib.util'
+local tbx = require 'moonlib.tableAux'
 local lc = lp.locale()
 
 local args = {...}
