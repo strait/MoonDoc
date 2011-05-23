@@ -25,7 +25,7 @@ dependencies = {
 build = {
     type = "none",
     install = {
-        bin = {"moondoc.lua"}
+        bin = {"moondoc"}
     }
     
 }
