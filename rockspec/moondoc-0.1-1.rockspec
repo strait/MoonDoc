@@ -23,7 +23,7 @@ dependencies = {
 }
 
 build = {
-    type = "builtin",
+    type = "none",
     install = {
         bin = {"moondoc.lua"}
     }
