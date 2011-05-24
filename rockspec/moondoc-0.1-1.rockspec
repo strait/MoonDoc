@@ -20,6 +20,7 @@ dependencies = {
     "lua >= 5.1",
     "lpeg >= 0.10",
     "luafilesystem >= 1.5.0",
+    "moonlib"
 }
 
 build = {
